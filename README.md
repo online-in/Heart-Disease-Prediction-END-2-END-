@@ -66,4 +66,3 @@ Random Forest and SVM achieved the best performance.
 
 ---
 
-## 📁 Project Structure
